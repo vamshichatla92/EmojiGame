@@ -1,0 +1,30 @@
+.you-winOr-Loss-cont {
+  display: flex;
+  background-color: rgba(182, 108, 207, 0.333);
+  background-size: cover;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px;
+}
+
+.you-heading {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+}
+.best-text {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 36px;
+}
+
+.score-num {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: 26px;
+  color: blue;
+}
+.win-image {
+  height: 400px;
+  width: 400px;
+}
